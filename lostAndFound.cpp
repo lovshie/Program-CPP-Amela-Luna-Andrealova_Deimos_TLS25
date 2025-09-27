@@ -1,11 +1,7 @@
 /*
-    program lost and found
-    mengambil sebuah kata
-    menghilangkan vowels
-    membalikkan semua hurus
-    memasukkan kode ASCII huruf pertama ditengah sandi
-
-    misal banana -> nn98b, jakarta -> tr74kJ, tangerang -> gnr84gnt
+    Nama Lengkap : Amela Luna Andrealova
+    NIM : 25/566386/TK/63891
+    Kelompok : Deimos 
 */
 
 #include <iostream>
@@ -35,3 +31,4 @@ int main(){
     cout << "Sandi: " << sandi << endl;
     return 0;
 }
+
