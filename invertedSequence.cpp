@@ -1,7 +1,7 @@
 /*
-    Nama        : 
-    NIM         : 
-    Kelompok    : 
+    Nama Lengkap : Amela Luna Andrealova
+    NIM : 25/566386/TK/63891
+    Kelompok : Deimos 
 */
 #include <iostream>
 #include <vector>
@@ -67,4 +67,5 @@ int main() {
     cout << "Total jumlah setelah transformasi adalah: " << totalJumlah << endl;
 
     return 0;
+
 }
